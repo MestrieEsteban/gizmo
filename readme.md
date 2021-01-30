@@ -16,5 +16,5 @@ TODO
 
 ## License
 
-[npm-image]: https://img.shields.io/npm/v/live-xxx.svg
+[npm-image]: https://img.shields.io/npm/v/@maclow_/gizmo
 [npm-url]: https://npmjs.org/package/@maclow_/gizmo
