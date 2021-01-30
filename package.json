@@ -9,7 +9,7 @@
   "author": "Mestrie Esteban",
   "license": "ISC",
   "np": {
-	"yarn": true,
-	"contents": "dist"
-}
+    "yarn": true,
+    "contents": "dist"
+  }
 }
