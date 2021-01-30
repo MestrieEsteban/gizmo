@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm i -S live-xxx
+npm i @maclow_/gizmo
 ```
 
 ## Usage
@@ -17,4 +17,4 @@ TODO
 ## License
 
 [npm-image]: https://img.shields.io/npm/v/live-xxx.svg
-[npm-url]: https://www.npmjs.com/package/@maclow_/gizmo
+[npm-url]: https://npmjs.org/package/@maclow_/gizmo
