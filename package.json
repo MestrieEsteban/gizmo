@@ -1,5 +1,5 @@
 {
-  "name": "gizmo_",
+  "name": "@maclow_/gizmo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,5 +7,9 @@
     "test": "exit 0"
   },
   "author": "Mestrie Esteban",
-  "license": "ISC"
+  "license": "ISC",
+  "np": {
+	"yarn": true,
+	"contents": "dist"
+}
 }
