@@ -1,0 +1,11 @@
+{
+  "name": "gizmo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "Mestrie Esteban",
+  "license": "ISC"
+}
