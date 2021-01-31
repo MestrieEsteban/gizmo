@@ -1,0 +1,19 @@
+import {
+	Entity,
+	PrimaryGeneratedColumn,
+	Column,
+	BaseEntity,
+	CreateDateColumn,
+	BeforeInsert,
+	BeforeUpdate,
+} from 'typeorm'
+import bcrypt from 'bcryptjs'
+
+@Entity()
+export default class {{ name }} extends BaseEntity {
+
+	@PrimaryGeneratedColumn()
+	id!: string
+
+
+}

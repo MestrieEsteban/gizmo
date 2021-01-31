@@ -13,7 +13,6 @@
 		"chalk": "^4.1.0",
 		"chalk-rainbow": "^1.0.0",
 		"clear": "^0.1.0",
-		"emojic": "^1.1.16",
 		"figlet": "^1.5.0",
 		"handlebars": "^4.7.6",
 		"shelljs": "^0.8.4",

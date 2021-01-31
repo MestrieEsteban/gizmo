@@ -1,20 +1,23 @@
 [
 	{
 		"name": "model",
+		"type": "Model",
 		"required": [
 			"Name"
 		],
 		"template": "./gizmo-template/mytemplate.gizmo",
 		"path": "./",
-		"type": "ts"
+		"ext": "ts",
+		"help": "Name is the name of Model and Entity"
 	},
 	{
 		"name": "ctrl",
+		"type": "Controller",
 		"required": [
 			"Name"
 		],
 		"template": "./gizmo-template/mytemplate.gizmo",
 		"path": "./",
-		"type": "ts"
+		"ext": "ts"
 	}
 ]
